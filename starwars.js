@@ -29,7 +29,7 @@ if (people.count === 0) {
 }
 
 [capitalName] has been found!
-[He] has starred in the following films:
+[genderPronoun] has starred in the following films:
 
 1. Star Wars: The Phantom Menace
 2. Star Wars: Attack of the Clones
